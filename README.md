@@ -11,9 +11,12 @@ This minecraft datapack is geared toward protecting specific areas in your world
 
 This mod dispose of the wither in a way that prevent player to get Nether Star or Wither Heads.  It help reduce abuse of this datapack mecanics.  
 
+Tested on minecraft java version **1.20.4**.
+
 ## Installation
-- Download the lastest release on github : [https://github.com/marghost/localised_wither_remover/releases/tag/1.0.0](localised_wither_remover-1.0.0.zip)
-- Drop the localised_wither_remover-1.0.0.zip archive in the .\world\datapack\ directory of your server
+- Download the zip file named localised_wither_remover-1.0.0.zip from the project release page : https://github.com/marghost/localised_wither_remover/releases/tag/1.0.0
+- Drop localised_wither_remover-1.0.0.zip in the .\world\datapack\ directory of your server
+- Reboot your server or run the /reload command
 
 ## Protected Areas
 

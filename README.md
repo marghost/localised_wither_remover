@@ -30,13 +30,13 @@ This protect the main island but also prevent wither skulls to go through the en
 
 ## Protected Area Customization
 
-Take a look at this section if you need to protect other areas or your world, edit the range of the protection or change the world spawn location. 
+Take a look at this section if you have custom world spawn coordinates. 
 
-This datapack take for granted that your spawn is located ad x=0 y=64 z=0.  If you edited this value on your server, you need to modify this datapack to make it compatible and cover your actual spawn.
+By default this datapack take for granted that your spawn is located ad x=0 y=64 z=0.  If you edited this value on your server, you need to modify this datapack to make it compatible and cover your actual spawn.
 
 ### How to modify Spawn coordinates
 - Unzip this datapack to make the modifications
-- Open .\data\localised_wither_remover\functions\localisedwitherremover.mcfunction
+- Open .\data\localisedwitherremover\functions\localisedwitherremover.mcfunction
 - The spawn coordinate values can be modified by editing line 4 and line 7
 - Drop the edited datapack in the \world\datapack\ directory of your server
 

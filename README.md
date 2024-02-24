@@ -14,7 +14,7 @@ This mod dispose of the wither in a way that prevent player to get Nether Star o
 Tested on minecraft java version **1.20.4**.
 
 ## Installation
-- Download the zip file named localised_wither_remover-1.0.0.zip from the project release page : https://github.com/marghost/localised_wither_remover/releases/tag/1.0.0
+- Download the zip file named localised_wither_remover-1.0.0.zip from the project release page : https://github.com/marghost/localised_wither_remover/releases/download/1.0.0/localised_wither_remover-1.0.0.zip
 - Drop localised_wither_remover-1.0.0.zip in the .\world\datapack\ directory of your server
 - Reboot your server or run the /reload command
 

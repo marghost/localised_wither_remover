@@ -42,7 +42,7 @@ This datapack take for granted that your spawn is located ad x=0 y=64 z=0.  If y
 
 **Line 4**
 ```
-execute in minecraft:overworld run tp @e[type=wither,x=<SPAWN_X_COORD>,y=<SPAWN_Y_COORD>,z=<SPAWN_Z_COORD>,distance=..<RANGE>] -15 0 -15
+execute in minecraft:overworld run tp @e[type=wither,x=<SPAWN_X_COORD>,y=<SPAWN_Y_COORD>,z=<SPAWN_Z_COORD>,distance=..<RANGE>] -15 -65 -15
 ```
 
 **Line 7**
